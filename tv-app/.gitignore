@@ -27,3 +27,6 @@ temp/
 
 # npm cache
 .npm-cache/
+
+# Package lock file (we'll commit package.json but not lock file)
+package-lock.json
