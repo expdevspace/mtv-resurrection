@@ -1,4 +1,4 @@
-# Node modules
+# Dependencies
 node_modules/
 
 # Logs
@@ -16,7 +16,6 @@ Thumbs.db
 # Build outputs
 dist/
 build/
-docs/assets/
 
 # Environment files
 .env*
@@ -28,6 +27,3 @@ temp/
 
 # npm cache
 .npm-cache/
-
-# Magnet files
-magnets/*.json
